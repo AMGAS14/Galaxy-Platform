@@ -1,1 +1,1 @@
-# Galaxy Wealth Management Platform
+# Galaxy WealthTech Platform
