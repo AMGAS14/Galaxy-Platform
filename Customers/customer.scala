@@ -1,7 +1,7 @@
 
-class Customers () {
+class Customer () {
 
-  
+ var CustomerID : String = null
 
   def getInfoCustomer(){
   
